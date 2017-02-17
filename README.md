@@ -1,2 +1,2 @@
 # jinns
-This alsolute for testing purpose
+This is alsolutely for testing purpose
