@@ -1,6 +1,6 @@
 {
-    "appSecret": "fc1826c52d97af0e62a228a705aed04e",
-    "pageAccessToken": "EAAFzgL2HcQ0BADBMKak36xIkKiEoAb8t5OSWK2AhaQJPJJSNYwzN1j5anTMZBTSDZBkQhakTSkU7ZAu8xZBBQ6ZADXdUWIZAjNTPX6RXFQ1A4UA5TbKYncZB9oEgkUjH9ArMS1WuH82Pt8pcFQ3ZApG23yVp2r9Op1TQIb6fBCE9LwZDZD",
-    "validationToken": "Aaranyak",
-    "serverURL": "https://49a7b16c.ngrok.io/"
+    "appSecret": "APP_SECRET",
+    "pageAccessToken": "PAGE_ACCESS_TOKEN",
+    "validationToken": "VALIDATION_TOKEN",
+    "serverURL": "URL"
 }
